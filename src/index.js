@@ -13,7 +13,7 @@ root.render(
       <Weather />
       <p>
         <a
-          href="https://github.com/Omolwethu?tab=repositories"
+          href="https://github.com/Omolwethu/weather-react"
           rel="noopener noreferrer"
           target="_blank"
         >
